@@ -1,6 +1,5 @@
 #!/bin/bash
 
-somethign abt this script stops SU and SSH logins, why?
 
 ################################################################################
 # keep running this in crontabs (every 1 minute)
